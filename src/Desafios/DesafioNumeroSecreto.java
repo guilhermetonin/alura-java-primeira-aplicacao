@@ -3,7 +3,7 @@ package Desafios;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Desafios2 {
+public class DesafioNumeroSecreto {
     static void main() {
         Scanner leitura = new Scanner(System.in);
         int numeroAleatorio = new Random().nextInt(100);
